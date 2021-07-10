@@ -1,4 +1,5 @@
 Electrical and Computer Engineer, MSc. - With Honors  <br />
+Ph.D. Candidate at University of Thessaly  <br />
 Member of Technical Chamber of Greece. <br />
 
 <!-- <img align="right" alt="GIF" width="250" height="150" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" /> -->
